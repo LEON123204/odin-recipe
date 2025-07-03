@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: arial,sans-serif;
+}
+.qeuest{
+    max-width: 800px;
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    line-height: 1.6;
+}
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+h4{
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: normal;
+    color: #555;
+}
+a{
+    color: #4f46e5;
+    text-decoration: none;
+}
